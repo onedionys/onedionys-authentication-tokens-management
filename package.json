@@ -1,6 +1,6 @@
 {
   "name": "onedionys-authentication-tokens-management",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Authentication Tokens Management) - Functions to store, retrieve, and update authentication tokens in web applications.",
   "main": "src/authenticationTokensManager.js",
   "directories": {
