@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to One Dionys - Authentication Tokens Management! 👋 </h1>
+<h1 align="center">Welcome to One Dionys - Authentication Token Management! 👋 </h1>
 
 <p align="center">Functions to store, retrieve, and update authentication tokens in web applications. 💖 </p>
 
